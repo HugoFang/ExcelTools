@@ -10,6 +10,8 @@ Motion ExcelTools是一个表格导出工具。可以帮助策划把Excel表格�
 
 ## 工程
 VS2017 && .net framework 4.6
+NuGet package : NPOI
+NuGet package : SharpZipLib
 
 ## 说明
 ![image](https://github.com/gmhevinci/ExcelTools/raw/master/image.JPG?imageMogr2/auto-orient/strip)
